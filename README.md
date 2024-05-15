@@ -1,2 +1,2 @@
-# Geog5990M_Assignment2
-Files required for assignment 2.
+# GEOG5990M: Assignment2
+A repository containing all of the data and code required for Assignment 2.
