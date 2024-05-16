@@ -8,10 +8,10 @@ The disposal of public waste presents substantial challenges for local authoriti
 
 # Aims 
 
-To produce a spatial visualisation analysing bring site distribution and accessibility within a buffer zone. 
-To quantify the number of bring sites per ward and compare this to the total population 
-Explore whether a correlation exists between public demand and the amount of bring sites. 
-Highlight bring sites which are overburdened or poorly distributed to inform future recycling infrastructure policy. 
+- To produce a spatial visualisation analysing bring site distribution and accessibility within a buffer zone. 
+- To quantify the number of bring sites per ward and compare this to the total population 
+- Explore whether a correlation exists between public demand and the amount of bring sites. 
+- Highlight bring sites which are overburdened or poorly distributed to inform future recycling infrastructure policy. 
 
 # Findings 
 
