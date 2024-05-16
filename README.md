@@ -4,7 +4,7 @@ Student Number: 201802459
 
 # Project Context
 
-The disposal of public waste presents substantial challenges for local authorities. The recycling of used paper, glass, and textiles offers an environmentally sustainable solution that reduces the amount of rubbish sent to landfill. This project used open data to analyse public accessibility to the recycling bring sites located across Leeds, and produced visualisations that offer insights into their distribution. Literature explored throughout the study suggests this factor has marked influence over people’s attitudes towards recycling, as such improvements to green infrastructure would be largely for public benefit. The code provided preprocesses several datasets and produces two final visualisations; one spatial and the other non-spatial
+The disposal of public waste presents substantial challenges for local authorities. The recycling of used paper, glass, and textiles offers an environmentally sustainable solution that reduces the amount of rubbish sent to landfill. This project used open data to analyse public accessibility to the recycling bring sites located across Leeds, and produced visualisations that offer insights into their distribution. Literature explored throughout the study suggests this factor has marked influence over people’s attitudes towards recycling, as such improvements to green infrastructure would be largely for public benefit. The code provided preprocesses several datasets and produces two final visualisations; one spatial and the other non-spatial.
 
 # Aims 
 
