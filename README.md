@@ -23,7 +23,7 @@ This project was not without its limitations, both with regards to the data avai
 
 - The census data utilised was collected in 2011, whereas the recycling bring sites are from a survey from 2023. As such there is a level of uncertainty present in the findings; the problem in some wards could be exacerbated by continued population growth. 
 - The 1 km accessibility buffer zones created in the spatial visualisation are an Euclidean distance. A network analysis using the roads surrounding each bring site would have been more effective, but beyond the scope of this study. 
-- A clipped version of the Eng_wards file had to be uploaded instead of the original, due to Github Repository data limitations. 
+- A clipped version of the eng_wards file had to be uploaded instead of the original, due to Github Repository data limitations. 
 
 
 
