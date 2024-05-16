@@ -1,4 +1,4 @@
-# GEOG5990M: Assignment2
+# GEOG5990M: Assignment 2
 
 Student Number: 201802459
 
